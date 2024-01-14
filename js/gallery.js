@@ -71,7 +71,7 @@ const images = [
         return `<li class="gallery-item">
     <a class="gallery-link" href="${original}">
       <img
-        class="gallery-images"
+        class="gallery-image"
         src="${preview}"
         data-source="${original}"
         data-description="${description}"
